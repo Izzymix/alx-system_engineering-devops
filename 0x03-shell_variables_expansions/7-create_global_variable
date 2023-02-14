@@ -1,2 +1,2 @@
-#!/bin/bahe
+#!/bin/bash
 echo $((2#$BEST SCHOOL))
